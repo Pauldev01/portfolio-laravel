@@ -1,4 +1,4 @@
-@extends('template.main')
+@extends('template.urgence')
 @section('content')
 <!-- ======= Clients Section ======= -->
 <section id="clients" class="clients mt-5">

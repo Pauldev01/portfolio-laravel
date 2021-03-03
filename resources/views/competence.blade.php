@@ -1,4 +1,4 @@
-@extends('template.main')
+@extends('template.urgence')
 @section('content')
 <!-- ======= Why Us Section ======= -->
 <section id="why-us" class="why-us mt-5">

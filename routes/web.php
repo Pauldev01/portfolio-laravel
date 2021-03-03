@@ -22,6 +22,8 @@ Route::get('/',[WelcomeController::class,'index']) -> name('welcome');
 
 Route::get('/aboutme',[AboutmeController::class,'index']) -> name('aboutme');
 
+// Route::get('/creation',[CreationController::class,'index']) -> name('creation');
+
 Route::get('/creation', function () {
     return view('creation');
 })-> name('creation');
