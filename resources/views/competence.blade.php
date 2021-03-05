@@ -10,7 +10,7 @@
           <div class="box">
             <span>01</span>
             <h4>Lorem Ipsum</h4>
-            <p>Ulamco laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
+            <p>Ulamcot laboris nisi ut aliquip ex ea commodo consequat. Et consectetur ducimus vero placeat</p>
           </div>
         </div>
 
