@@ -47,7 +47,7 @@
           <nav class="nav-menu d-none d-lg-block">
             <ul>
               <li class="active"><a href="/welcomeadmn">Home edit</a></li>
-              <li><a href="/aboutmeadmn">About me edit</a></li>
+              <li><a href="/aboutmeadmn">About edit</a></li>
               <li><a href="/creationadmn">Creations edit</a></li>
               <li><a href="/competenceadmn">Competences edit</a></li>
               <li><a href="/contactadmn">Contact edit</a></li>

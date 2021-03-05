@@ -6,6 +6,7 @@
         il est possible de creer modifier ou suprimer des entrées
     </span>
 </section>
+
 {{-- nav --}}
 <section>
     <h2 class="text-center">Navbar </h2>
